@@ -19,8 +19,8 @@ from bs4 import BeautifulSoup
 # --- Configuration -----------------------------------------------------
 
 PAGES = {
-    "CastingQuarters": "https://mbasic.facebook.com/CastingQuarters",
-    "MFK - Les filles du Casting": "https://mbasic.facebook.com/profile.php?id=61577135076908",
+    "CastingQuarters": "https://mbasic.facebook.com/profile.php?id=250836244946113",
+    "MFK - Les filles du Casting": "https://mbasic.facebook.com/profile.php?id=604232472784399",
 }
 
 STATE_FILE = Path("state/last_posts.json")
